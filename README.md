@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![monkeytub's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkeytub&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeytub&layout=compact)](https://github.com/monkeytub/github-readme-stats)
